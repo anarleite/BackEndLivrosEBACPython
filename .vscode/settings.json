@@ -1,0 +1,5 @@
+{
+ "python.defaultInterpreterPath": "C:\\Users\\anara\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\backend-ebac-livros-python-9OK3DQaC-py3.14\\Scripts\\python.exe",
+    "python.analysis.extraPaths": [
+        "C:\\Users\\anara\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\backend-ebac-livros-python-9OK3DQaC-py3.14\\Lib\\site-packages" ]
+}
